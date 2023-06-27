@@ -1,6 +1,6 @@
 <Response>
     <Connect>
-        <Stream url="wss://2820-185-15-108-221.ngrok-free.app/twilio/media/">
+        <Stream url="wss://2820-185-15-108-221.ngrok-free.app">
             <Parameter name="user_id" value="2"/>
             <Parameter name="customer_id" value="1"/>
             <Parameter name="phone_number_exists" value="true"/>
